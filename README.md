@@ -1,23 +1,29 @@
 ## Hi, I'm Alexander 👋 
 
 ```go
-package me
-
-type Me struct {
-	Job      string
-	Email    string
-	Learning []string
-	Interest []string
+pub struct Me {
+    job: String,
+    email: String,
+    learning: Vec<String>,
+    interest: Vec<String>,
 }
 
-func sdn0303() *Me {
-	return &Me{
-		Job:      "Software Developer",
-		Email:    "sdn03.tech@gmail.com",
-		Learning: []string{"Rust", "Move", "C#", "NestJS"},
-		Interest: []string{"IoT", "wasm", "Blockchain", "ML"},
-	}
+impl Me {
+    pub fn sdn0303() -> Me {
+        Me {
+            job: String::from("Software Developer"),
+            email: String::from("pichstudent2004@gmail.com"),
+            learning: vec!["Rust".to_string(), "Move".to_string(), "C#".to_string(), "NestJS".to_string()],
+            interest: vec!["IoT".to_string(), "wasm".to_string(), "Blockchain".to_string(), "ML".to_string()],
+        }
+    }
 }
+
+fn main() {
+    let me = Me::pichstudent2004();
+    println!("{:?}", me);
+}
+
 ```
 
 |Github Stats|Top Lang|Productive Time|
