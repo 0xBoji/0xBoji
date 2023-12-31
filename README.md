@@ -11,7 +11,7 @@ pub struct Me {
 impl Me {
     pub fn pichtran() -> Me {
         Me {
-            job: String::from("Software Developer"),
+            job: String::from("Blockchain Developer"),
             email: String::from("pichstudent2004@gmail.com"),
             learning: vec!["Rust".to_string(), "Move".to_string(), "C#".to_string(), "NestJS".to_string()],
             interest: vec!["IoT".to_string(), "wasm".to_string(), "Blockchain".to_string(), "ML".to_string()],
