@@ -9,7 +9,7 @@ pub struct Me {
 }
 
 impl Me {
-    pub fn sdn0303() -> Me {
+    pub fn pichstudent2004() -> Me {
         Me {
             job: String::from("Software Developer"),
             email: String::from("pichstudent2004@gmail.com"),
