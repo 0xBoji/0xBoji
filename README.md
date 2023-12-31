@@ -9,7 +9,7 @@ pub struct Me {
 }
 
 impl Me {
-    pub fn pichtran() -> Me {
+    pub fn alexander() -> Me {
         Me {
             job: String::from("Blockchain Developer"),
             email: String::from("pichstudent2004@gmail.com"),
@@ -20,7 +20,7 @@ impl Me {
 }
 
 fn main() {
-    let me = Me::pichtran();
+    let me = Me::alexander();
     println!("{:?}", me);
 }
 
