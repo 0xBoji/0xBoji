@@ -2,7 +2,7 @@
 <p>
     <a href="https://github.com/0xboji" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/alexandros-de-ares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://medium.com/@0xboji" target="_blank"><img src="https://img.shields.io/badge/-Medium-66cdaa?style=flat-square&logo=Medium&logoColor=white"/></a>
+    <a href="https://0xboji.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-66cdaa?style=flat-square&logo=Medium&logoColor=white"/></a>
     <a href="https://twitter.com/0xboji" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
     <a href="mailto:me@0xboji.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
