@@ -37,8 +37,8 @@
 <h3>🌟 Middle Levels</h3>
 <p>Move (approaching senior level), Rust, Typescript, .NET Core, PostgreSQL</p>
 
-<h3>💓 Love</h3>
-<p>Python, Amazon Web Services (AWS), Docker, Micro Services, Kubernetes, Google Cloud Platform (GCP), Microsoft Azure...</p>
+<h3>💓 Love cloud</h3>
+<p>Amazon Web Services (AWS), Docker, Micro Services, Kubernetes, Google Cloud Platform (GCP), Microsoft Azure, IPFS, Walrus</p>
 
 <h3>✖ Not willing to do</h3>
 <p>JAVA, Angular</p>
