@@ -58,4 +58,3 @@
 <p>&nbsp;</p>
 
 <h3>Latest Medium Post</h3>
-<p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@0xboji/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@0xboji/0" width="100%" /> 
