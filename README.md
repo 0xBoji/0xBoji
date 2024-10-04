@@ -9,36 +9,36 @@
 
 <p>&nbsp;</p>
 
-<h2><strong>👾 Senior Frontend Wizard</strong></h2>
-<p>📢 MEVN Stack Developer 🎩 Vue.js 3 ☄ Nuxt.js 3 🌟 Node.js ☃ Express.js 🌸 Pinia 😎 Vuex 🐧 Vuetify ✍ Blogger</p>
+<h2><strong>👾 Web3 Engineer</strong></h2>
+<p>📢 Web3 Developer 🦀 Rust 👾 Move ⬆️ Solidity ☄ React - Next.js 🌟 Node.js ☃ Bun 🌸 IPFS 😎 PostgreSql 🐧  ✍ Blogger</p>
 
 <p>&nbsp;</p>
 
 <p><strong>Hi there! <span style="margin:0 10px;">👋</span></strong></p>
     
-<p>I'm <strong>Mustafa Çağrı</strong>, a developer who specializes in the <strong>MEVN Stack</strong> and currently lives in <strong>Istanbul, Turkey</strong>.</p>
+<p>I'm <strong>0xBoji</strong>, a developer who specializes in the <strong>Web3</strong> and currently lives in <strong>HCM, Vietnam</strong>.</p>
 
-<p>I earned my computer science engineering degree from Sabanci University in 2011. Even before college, I've been coding for a long time, starting with Classic ASP age!</p>
+<p>I learned my computer science engineering degree from Lincolt University in 2025. Even before college, I've been coding for a long time, starting with Classic .NET age!</p>
 
-<p>I enjoy exploring new technologies and have a knack for quickly adapting to them. Nowadays, I focus mostly on front-end development, where Vue.js is my go-to however I can also work with pure Javascript and jQuery.</p>
+<p>I enjoy exploring new technologies and have a knack for quickly adapting to them. Nowadays, I focus mostly on blockchain development, where Rust is my go-to however I can also work with pure Typescript and AWS.</p>
 
-<p>When it comes to back-end development, my top choice is Node.js, followed by ASP and PHP. </p>
+<p>When it comes to back-end development, my top choice is Rust, followed by .NET and Bun. </p>
 
-<p>By the way, MySQL, MSSQL, MongoDB, PostgreSQL and Firebase are in my stack too.</p>
+<p>By the way, MySQL, MSSQL, MongoDB, and PostgreSQL are in my stack too.</p>
 
 <p>&nbsp;</p>
 
 <h2>✨ Stack</h2>
-<p>Vue 2, Vue 3, Nuxt 3, Node.js, Express.js, MongoDB, Pinia, Vuex, Vue Router, Vuetify, Vuexy, RESTful APIs, jQuery, Bootstrap, MySQL, Lodash, i18n, SASS / SCSS, UX Design, Storybook, Regula (Face Recognition), Socket.io, Tailwind CSS, Firebase, Data Visualization Tools (Chart.js, Highcharts and more...), ES6+ (Following as possible as the latest Ecma Script versions)</p>
+<p>Rust, .NET, Node.js, Bun, MongoDB, RESTful APIs, MySQL, SASS / SCSS, UX Design, Storybook, Regula (Face Recognition), Socket.io, Tailwind CSS, Data Visualization Tools (Chart.js, Highcharts and more...), ES6+ (Following as possible as the latest Ecma Script versions)</p>
 
 <h3>✢ Plus</h3>
-<p>Salesforce, Scrum, Agile Development, Team Leadership, JIRA, Asana, Slack, Notion, GitHub, GitLab, CI/CD, GitHub Actions, MSSQL, SEO, Heroku, Pager Duty, Sentry, XCode (iOS Simulator), OpenAI, Figma, VS Code, Postman, Adobe Photoshop, SonarCloud, Amazon Web Services (AWS), Docker, Classic ASP, SaaS Start-up & Scale-up Experiences, Unit Testing (Jest, Vitest)</p>
+<p>Salesforce, Scrum, Agile Development, Team Leadership, Asana, Slack, Notion, GitHub, GitLab, CI/CD, GitHub Actions, MSSQL, SEO, Heroku, Pager Duty, Sentry, XCode (iOS Simulator), OpenAI, Figma, VS Code, Postman, Adobe Photoshop, SonarCloud, Amazon Web Services (AWS), Docker, Classic ASP, SaaS Start-up & Scale-up Experiences, Unit Testing (Jest, Vitest)</p>
 
 <h3>🌟 Middle Levels</h3>
-<p>React.js (approaching senior level), Typescript, .NET Core, PHP, PostgreSQL</p>
+<p>Move (approaching senior level), Rust, Typescript, .NET Core, PostgreSQL</p>
 
-<h3>✔ Willing to do</h3>
-<p>Laravel, Python, Micro Services, Kubernetes, Google Cloud Platform (GCP), Microsoft Azure...</p>
+<h3>💓 Love</h3>
+<p>Python, Amazon Web Services (AWS), Docker, Micro Services, Kubernetes, Google Cloud Platform (GCP), Microsoft Azure...</p>
 
 <h3>✖ Not willing to do</h3>
 <p>JAVA, Angular</p>
