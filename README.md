@@ -10,7 +10,7 @@
 <p>&nbsp;</p>
 
 <h2><strong>👾 Web3 Engineer</strong></h2>
-<p>📢 Web3 Developer 🦀 Rust 👾 Move ⬆️ Solidity ☄ React - Next.js 🌟 Node.js ☃ Bun 🌸 IPFS 😎 PostgreSql 🐧  ✍ Blogger</p>
+<p>📢 Web3 Developer 🦀 Rust 👾 Move ⬆️ Solidity ☄ Web3js 🐧 React - Next.js 🌟 Node.js ☃ Bun 🌸 IPFS 😎 PostgreSql ✍ Blogger</p>
 
 <p>&nbsp;</p>
 
@@ -18,11 +18,11 @@
     
 <p>I'm <strong>0xBoji</strong>, a developer who specializes in the <strong>Web3</strong> and currently lives in <strong>HCM, Vietnam</strong>.</p>
 
-<p>I learned my computer science engineering degree from Lincolt University in 2025. Even before college, I've been coding for a long time, starting with Classic .NET age!</p>
+<p>I earned my computer science engineering degree from Lincolt University in 2025. Even before college, I've been coding for a long time, starting with Classic .NET age!</p>
 
 <p>I enjoy exploring new technologies and have a knack for quickly adapting to them. Nowadays, I focus mostly on blockchain development, where Rust is my go-to however I can also work with pure Typescript and AWS.</p>
 
-<p>When it comes to back-end development, my top choice is Rust, followed by .NET and Bun. </p>
+<p> Regarding back-end development, my top choice is Rust, followed by .NET and Bun. </p>
 
 <p>By the way, MySQL, MSSQL, MongoDB, and PostgreSQL are in my stack too.</p>
 
@@ -37,7 +37,7 @@
 <h3>🌟 Middle Levels</h3>
 <p>Move (approaching senior level), Rust, Typescript, .NET Core, PostgreSQL</p>
 
-<h3>💓 Love cloud</h3>
+<h3>💓 Love clouds</h3>
 <p>Amazon Web Services (AWS), Docker, Micro Services, Kubernetes, Google Cloud Platform (GCP), Microsoft Azure, IPFS, Walrus</p>
 
 <h3>✖ Not willing to do</h3>
