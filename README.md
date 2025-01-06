@@ -13,7 +13,7 @@ DevOps & Blockchain Engineer based in HCM, Vietnam. Computer Science graduate fr
 ## Core Competencies 🚀
 
 ### Blockchain Development
-- Smart Contract Development (Solidity, Move)
+- Smart Contract Development (Solidity, Rust, Move)
 - Web3.js Integration
 - Blockchain Architecture Design
 - DApp Development
