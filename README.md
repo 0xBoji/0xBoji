@@ -68,4 +68,5 @@ DRY | Clean Code | Maintainable Architecture | Open Source
 </div>
 
 ### Latest Content 📚
-[Check out my latest Medium posts and YouTube videos]
+[Check out my latest Medium posts and YouTube videos
+](https://www.youtube.com/@0xboji/)
