@@ -8,7 +8,7 @@
 
 ## About Me 👋
 
-DevOps & Blockchain Engineer based in HCM, Vietnam. Computer Science graduate from Lincolt University (2025). From Classic .NET to Modern Web3, I bring extensive experience across the development spectrum.
+DevOps & Blockchain Engineer. Computer Science graduate from Lincolt University (2025). From Classic .NET to Modern Web3, I bring extensive experience across the development spectrum.
 
 ## Core Competencies 🚀
 
