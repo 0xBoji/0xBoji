@@ -20,7 +20,7 @@ DevOps & Blockchain Engineer. Computer Science graduate from Lincolt University 
 
 ### Software Development
 - **Languages**: C/C++, Python, JavaScript/TypeScript
-- **Backend**: NestJS, Node.js, Rust
+- **Backend**: NestJS, Node.js, Rust, Go
 - **Frontend**: Next.js, React
 - **DevOps**: AWS, Docker, CI/CD, Linux Administration
 
@@ -32,7 +32,7 @@ DevOps & Blockchain Engineer. Computer Science graduate from Lincolt University 
 ## Technical Stack ⚡
 
 ### Primary Focus
-- Rust, Move, Solidity
+- Go, aRust, Move, Solidity
 - Web3 Development Tools
 - Blockchain Protocols
 - Full-Stack Development
