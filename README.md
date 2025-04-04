@@ -24,6 +24,13 @@ DevOps & Blockchain Engineer. Computer Science graduate from Lincolt University 
 - **Frontend**: Next.js, React
 - **DevOps**: AWS, Docker, CI/CD, Linux Administration
 
+### Microservices & Distributed Systems
+- Microservice Architecture Design & Implementation
+- gRPC Service Development with Go
+- Service Mesh Architecture
+- API Gateway Implementation
+- Event-Driven Architecture
+
 ### Content Creation
 - Technical Documentation
 - YouTube Tutorial Production
@@ -32,7 +39,7 @@ DevOps & Blockchain Engineer. Computer Science graduate from Lincolt University 
 ## Technical Stack ⚡
 
 ### Primary Focus
-- Go, aRust, Move, Solidity
+- Go, Rust, Move, Solidity
 - Web3 Development Tools
 - Blockchain Protocols
 - Full-Stack Development
