@@ -1,5 +1,4 @@
-# 0xBoji 👨‍💻 Web3 Engineer 
-
+# 0xBoji 👨‍💻 Cloud Architect
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/0xboji)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0xboji/)
 [![Medium](https://img.shields.io/badge/-Medium-66cdaa?style=flat-square&logo=Medium&logoColor=white)](https://0xboji.medium.com/)
