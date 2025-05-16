@@ -1,4 +1,4 @@
-# 0xBoji 👨‍💻 Cloud Architect
+# 0xBoji 👨‍💻 Intern Cloud Architect
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/0xboji)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0xboji/)
 [![Medium](https://img.shields.io/badge/-Medium-66cdaa?style=flat-square&logo=Medium&logoColor=white)](https://0xboji.medium.com/)
@@ -7,7 +7,7 @@
 
 ## About Me 👋
 
-DevOps & Blockchain Engineer. From Classic .NET to Modern Web3, I bring extensive experience across the development spectrum.
+DevOps & Blockchain Learner. From Classic .NET to Modern Web3, I bring extensive experience across the development spectrum.
 
 ## Core Competencies 🚀
 
@@ -21,7 +21,7 @@ DevOps & Blockchain Engineer. From Classic .NET to Modern Web3, I bring extensiv
 - **Languages**: C/C++, Python, JavaScript/TypeScript
 - **Backend**: NestJS, Node.js, Rust, Go
 - **Frontend**: Next.js, React
-- **DevOps**: AWS, Docker, CI/CD, Linux Administration
+- **DevOps**: AWS, Docker, CI/CD,...
 
 ### Microservices & Distributed Systems
 - Microservice Architecture Design & Implementation
@@ -54,7 +54,6 @@ DevOps & Blockchain Engineer. From Classic .NET to Modern Web3, I bring extensiv
 - AWS Services
 - IPFS
 - Microservices Architecture
-- Linux System Administration
 
 ## Notable Work 🎯
 
