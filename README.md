@@ -66,12 +66,6 @@ DevOps & Blockchain Learner. From Classic .NET to Modern Web3, I bring extensive
 DRY | Clean Code | Maintainable Architecture | Open Source
 
 ---
-
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xboji&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0xboji&theme=dracula&hide_border=true"/>
-</div>
-
 ### Latest Content 📚
 [Check out my latest Medium posts and YouTube videos
 ](https://www.youtube.com/@0xboji/)
