@@ -2,7 +2,7 @@
 
 # Tran Ngoc Hoang Pich
 
-<img src="je_headshot.webp" alt="Tran Ngoc Hoang Pich" width="180" />
+<!-- <img src="je_headshot.webp" alt="Tran Ngoc Hoang Pich" width="140" /> -->
 
 **Can Tho, Vietnam** · Builder & engineer · Former long/short equity analyst
 
