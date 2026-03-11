@@ -310,10 +310,10 @@ Selected essays from [jeffreyemanuel.com/writing](https://www.jeffreyemanuel.com
 
 ## Connect
 
-[![Threads](https://img.shields.io/badge/-@0xBoji-000000?style=flat-square&logo=x&logoColor=white)](https://threads.com/0xBoji)
+[![Threads](https://img.shields.io/badge/-@0xBoji-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.com/0xBoji)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xBoji)
-[![Website](https://img.shields.io/badge/-jeffreyemanuel.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.alexandertran.me)
-[![Email](https://img.shields.io/badge/-jeffreyemanuel@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ngochoangpichtran@gmail.com)
+[![Website](https://img.shields.io/badge/-alexandertran.me-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.alexandertran.me)
+[![Email](https://img.shields.io/badge/-ngochoangpichtran@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ngochoangpichtran@gmail.com)
 
 ---
 
