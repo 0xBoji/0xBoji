@@ -21,7 +21,7 @@
 
 *Building the useful tool in public.*
 
-![Stars](https://img.shields.io/badge/Stars-16.7k+-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-500+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Projects-20+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/Followers-400+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 
